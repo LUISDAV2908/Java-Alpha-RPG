@@ -1,0 +1,13 @@
+Hola si estas leyendo esto es por que fuiste seleccionado para este pequeño proyecto un alpha de un rpg 
+me gustaria que trates de romperlo lo mas que puedas, busques bugs y me des tus sensaciones sobre el juego que se puede agregar que no entediste y si estan bien las mecanicas
+
+
+Ahora las instrucciones te mueves con los clasicos controles WASD y tode vendra en el menu 
+para abrirlo necesitas tener el jdk instalado, luego abrir cmd y dirigirte a la carpeta donde esta el archivo .jar
+Usa el siguiente comando java -jar juego.jar para abrirlo 
+
+Disfrutalo, mas adelante lo mejorare para que este bueno y entretenido
+
+Sin mas que decir me despido
+
+Luis David :D
