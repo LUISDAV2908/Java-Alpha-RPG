@@ -59,8 +59,9 @@ public class Juego {
                         break;
 
                 }
+                
             }
-            
+            mundo.limpiarCasilla(jugador.getX(), jugador.getY());
         }
     }
 
